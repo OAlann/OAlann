@@ -1,24 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D9AB3&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7D9AB3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alan+Araujo+Santos;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+Computer+Science+at+Anhembi+Morumbi;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OAlann&show_icons=true&count_private=true&hide_border=true&title_color=7D9AB3&icon_color=7D9AB3&text_color=c9d1d9&bg_color=0d1117" alt="Alan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OAlann&show_icons=true&count_private=true&hide_border=true&title_color=7D9AB3&icon_color=7D9AB3&text_color=c9d1d9&bg_color=0d1117" alt="Github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAlann&layout=compact&hide_border=true&title_color=7D9AB3&text_color=7D9AB3&bg_color=0d1117" />
 </div>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OAlann&bg_color=000000&color=7D9AB3&line=7D9AB3&point=8e9091&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)// -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OAlann&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
-<div align="center">  
+<!-- <div align="center">  
 <a href="https://www.linkedin.com/in/alan-in/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230072b1?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
+</div> -->
  
 ### Main skills:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
@@ -35,6 +32,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
