@@ -8,8 +8,8 @@
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OAlann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OAlann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&hide_border=true" height="180" alt="languages graph"  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OAlann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=OAlann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OAlann&bg_color=000000&color=7D9AB3&line=7D9AB3&point=8e9091&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)// -->
